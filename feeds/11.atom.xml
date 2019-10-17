@@ -1401,4 +1401,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.Curabitur purus mi, soll
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="Python"></category><category term="Blogging"></category><category term="JupyterNotebook"></category><category term="Pelican"></category></entry></feed>
+</content><category term="11"></category><category term="Python"></category><category term="Blogging"></category><category term="JupyterNotebook"></category><category term="Pelican"></category></entry></feed>
